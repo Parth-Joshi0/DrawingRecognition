@@ -83,7 +83,6 @@ class main:
         img = img.reshape(1, 28, 28, 1)
         return img
 
-
 if __name__ == "__main__":
     window = Tk()
     window.title("Drawing Board")
