@@ -210,5 +210,7 @@ __marimo__/
 .idea/
 mnist/
 
+.DS_Store
+
 #Models
 *.keras
