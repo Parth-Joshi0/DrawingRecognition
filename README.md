@@ -1,6 +1,6 @@
 DrawingRecognition
   A handwritten digit recognition app built with Tkinter and TensorFlow/Keras. 
-  Draw a number (0–9) on the canvas, and the trained CNN model predicts what digit it is, along with a confidence percentage.
+  Draw a number (0–9) on the canvas, and the trained CNN model predicts the digit, along with a confidence percentage.
 
 Features
 - Interactive Tkinter Board — B for Brush, C for Clear, E for Eraser
